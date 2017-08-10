@@ -1,2 +1,3 @@
 Line deleted
 Edit off line
+Line added online in git
